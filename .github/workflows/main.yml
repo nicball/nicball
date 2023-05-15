@@ -17,5 +17,4 @@ jobs:
           token: ${{ secrets.PERSONAL_TOKEN }}
           plugin_isocalendar: true
           plugin_languages: true
-          plugin_topics: true
           plugin_leetcode: true
