@@ -17,4 +17,7 @@ jobs:
           token: ${{ secrets.PERSONAL_TOKEN }}
           plugin_isocalendar: true
           plugin_languages: true
+          plugin_languages_indepth: yes
+          commits_authoring: znhihgiasy@gmail.com
+          plugin_languages_details: lines, percentage
           plugin_leetcode: true
