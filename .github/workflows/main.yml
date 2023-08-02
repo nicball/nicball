@@ -19,7 +19,6 @@ jobs:
           plugin_languages: true
           plugin_languages_indepth: yes
           commits_authoring: znhihgiasy@gmail.com
-          plugin_languages_indepth_custom: nicball/eoc
           plugin_languages_details: lines, percentage
           plugin_languages_ignored: Vim Script, KakouneScript
           plugin_leetcode: true
